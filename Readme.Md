@@ -1,15 +1,18 @@
-## Title :- Sampling Assignment
+##Sampling Assignment
 
 ## Methodology
-- used Over sampling Technique to balance the dataset
-- Used 5 sampling techniques - To divide the dataset into 5 different samples 
+To handle the imbalance present in the dataset, an oversampling technique was applied so that all classes were more evenly represented.
+
+After balancing the data, the dataset was divided into five different samples using five commonly used sampling methods:
+
   1. Random Sampling
   2. Systematic Sampling
   3. Stratified Sampling
   4. Cluster Sampling
   5. Bootstrap Sampling
 
-- used 5 ML models
+Once the samples were prepared, each one was trained and tested using five machine learning models. The models used in this assignment were:
+
   1. Logistic Regression
   2. SVM
   3. RandomForestClassifier
