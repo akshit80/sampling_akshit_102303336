@@ -1,4 +1,4 @@
-##Sampling Assignment
+## Sampling Assignment
 
 ## Methodology
 To handle the imbalance present in the dataset, an oversampling technique was applied so that all classes were more evenly represented.
